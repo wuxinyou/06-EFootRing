@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetQ2_1 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Added Component: Designator=Q3(SOT-23)
+Added Component: Designator=Q5(SOT-23)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R13(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Component: Designator=R21(R0603)
+Added Component: Designator=R27(R0603)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=YL_ENOUT Pin=Q3-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q5-3
+Added Pin To Net: NetName=+3.3V Pin=R2-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetD2_1 Pin=R13-1
+Added Pin To Net: NetName=AD_KEY2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=AD_KEY1 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=AD_KEY2 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R21-2
+Added Pin To Net: NetName=+3.3V Pin=R27-1
+Added Pin To Net: NetName=NetD5_1 Pin=R27-2
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component Q3 S8050
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component Q5 S8050
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R2 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R13 200K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R18 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R19 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R21 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R27 1K

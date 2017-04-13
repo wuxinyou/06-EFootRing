@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : D:\工作文件\13.电子脚铐\第3版\3-电气设计\1.电子脚铐本体主控板V3 - 改版\电子脚铐本体主控板V3-修改.PcbDoc
+Date     : 2017/1/13
+Time     : 19:45:14
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=157.48mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=2000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1N4148" (-105.386mil,1634.197mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "J1" (440.945mil,-19.685mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "D4" (403.874mil,1971.937mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "D3" (291.339mil,1980.315mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "20K" (-3.063mil,458.346mil)  Bottom Overlay
+Rule Violations :5
+
+
+Violations Detected : 5
+Time Elapsed        : 00:00:00

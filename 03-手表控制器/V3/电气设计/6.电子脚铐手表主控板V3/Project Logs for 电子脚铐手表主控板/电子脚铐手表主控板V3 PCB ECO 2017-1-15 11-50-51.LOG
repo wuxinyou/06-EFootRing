@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPARE1 Pin=R26-2
+Removed Pin From Net: NetName=SPARE2 Pin=R27-2
+Removed Member From Class: ClassName=电子脚铐手表主控板 Member=R26
+Removed Member From Class: ClassName=电子脚铐手表主控板 Member=R27

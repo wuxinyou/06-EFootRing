@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\Administrator\×ÀÃæ\C51-OLEDÀý³Ì(STC89C52)\OLED.uv2
+Project File Date:  08/22/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling OLED12864.c...
+linking...
+Program Size: data=23.0 xdata=0 code=6546
+creating hex file from "OLED"...
+"OLED" - 0 Error(s), 0 Warning(s).

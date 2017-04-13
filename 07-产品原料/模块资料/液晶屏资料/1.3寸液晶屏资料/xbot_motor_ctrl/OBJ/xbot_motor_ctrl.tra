@@ -1,0 +1,49 @@
+*** Creating Trace Output File '.\OBJ\xbot_motor_ctrl.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\stm32_gpioinit.o"'
+### List of Objects: adding '".\obj\stm32f10x_prioritycontrol.o"'
+### List of Objects: adding '".\obj\stm32_systick.o"'
+### List of Objects: adding '".\obj\adc.o"'
+### List of Objects: adding '".\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_conf.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\watchdog.o"'
+### List of Objects: adding '".\obj\datachain.o"'
+### List of Objects: adding '".\obj\key.o"'
+### List of Objects: adding '".\obj\ledlighter.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\serialport.o"'
+### List of Objects: adding '".\obj\spiport.o"'
+### List of Objects: adding '".\obj\lcddisplay.o"'
+### List of Objects: adding '".\obj\terminalcontrol.o"'
+### List of Objects: adding '".\obj\basecontrol.o"'
+### List of Objects: adding '".\obj\motorcontrol.o"'
+### List of Objects: adding '".\obj\xbotmotorctrlapp.o"'
+### List of Objects: adding '".\obj\main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_stm32f10x_md.o" ".\obj\system_stm32f10x.o" ".\obj\stm32_gpioinit.o" ".\obj\stm32f10x_prioritycontrol.o" ".\obj\stm32_systick.o" ".\obj\adc.o" ".\obj\stm32f10x_iwdg.o" ".\obj\misc.o" ".\obj\stm32f10x_dac.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_conf.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_adc.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_spi.o" ".\obj\watchdog.o" ".\obj\datachain.o" ".\obj\key.o" ".\obj\ledlighter.o" ".\obj\timer.o" ".\obj\serialport.o" ".\obj\spiport.o" ".\obj\lcddisplay.o" ".\obj\terminalcontrol.o" ".\obj\basecontrol.o" ".\obj\motorcontrol.o" ".\obj\xbotmotorctrlapp.o" ".\obj\main.o" 
+--strict --scatter ".\OBJ\xbot_motor_ctrl.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\xbot_motor_ctrl.map" -o .\OBJ\xbot_motor_ctrl.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\OBJ\xbot_motor_ctrl.axf'
+### ADS-LD Command File: '.\OBJ\xbot_motor_ctrl.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\OBJ\xbot_motor_ctrl.lnp', Handle=0x00000870
+### Writing '.lnp' file
+### ADS-LD Command file '.\OBJ\xbot_motor_ctrl.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

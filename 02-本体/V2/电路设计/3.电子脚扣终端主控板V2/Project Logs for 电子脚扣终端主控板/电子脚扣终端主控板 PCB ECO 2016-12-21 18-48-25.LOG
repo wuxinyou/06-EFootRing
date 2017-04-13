@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+3.3V Pin=C13-1
+Added Pin To Net: NetName=+3.3V Pin=C14-1
+Added Pin To Net: NetName=+3.3V Pin=U3-A2
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component R14 10R
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component R15 10R

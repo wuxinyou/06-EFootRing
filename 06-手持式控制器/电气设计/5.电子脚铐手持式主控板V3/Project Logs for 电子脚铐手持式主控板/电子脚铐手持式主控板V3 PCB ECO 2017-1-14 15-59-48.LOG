@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=KEYBEEP Pin=U1-14
+Removed Pin From Net: NetName=KEYSHOCK1 Pin=U1-15
+Removed Pin From Net: NetName=KEYSHOCK2 Pin=U1-16
+Change Net Name : Old Net Name=KEYBEEP New Net Name=KEY10
+Change Net Name : Old Net Name=KEYSHOCK1 New Net Name=KEY11
+Change Net Name : Old Net Name=KEYSHOCK2 New Net Name=KEY12
+Added Pin To Net: NetName=KEYBEEP Pin=U1-14
+Added Net: Name=KEYBEEP
+Added Pin To Net: NetName=KEYSHOCK1 Pin=U1-15
+Added Net: Name=KEYSHOCK1
+Added Pin To Net: NetName=KEYSHOCK2 Pin=U1-16
+Added Net: Name=KEYSHOCK2

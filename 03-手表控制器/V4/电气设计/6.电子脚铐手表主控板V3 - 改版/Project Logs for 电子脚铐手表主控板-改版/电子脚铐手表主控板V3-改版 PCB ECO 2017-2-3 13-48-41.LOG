@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3.3V Pin=R14-1
+Added Pin To Net: NetName=LEDPOW1 Pin=D4-2
+Added Pin To Net: NetName=LEDPOW1 Pin=U3-12
+Added Net: Name=LEDPOW1
+Added Pin To Net: NetName=LEDPOW2 Pin=R14-1
+Added Pin To Net: NetName=LEDPOW2 Pin=U3-13
+Added Net: Name=LEDPOW2
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R12 1K

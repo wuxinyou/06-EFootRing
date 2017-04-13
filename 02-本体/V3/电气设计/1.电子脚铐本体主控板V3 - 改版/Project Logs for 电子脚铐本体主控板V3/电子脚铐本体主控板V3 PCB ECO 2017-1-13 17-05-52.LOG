@@ -1,0 +1,13 @@
+Change Component Comment : Designator=Q8 Old Comment=ZXTN2031F New Comment=S8050
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component D3 LED
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component D4 LED
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component Q8 S8050
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component Q9 2SA1615
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R17 10K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R23 100K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R24 20K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R25 1K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R26 10K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R27 1K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R28 100K
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R29 1K

@@ -1,0 +1,71 @@
+Protel Design System Design Rule Check
+PCB File : D:\工作文件\13.电子脚扣\第3版\3-电气设计\1.电子脚铐本体主控板V3\电子脚铐本体主控板V3.PcbDoc
+Date     : 2017/1/5
+Time     : 17:14:38
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=157.48mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=2000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-230.472mil,0mil)(65.741mil,0mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-230.472mil,1968.505mil)(65.741mil,1968.505mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-220.472mil,0mil)(-220.472mil,817.297mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-220.472mil,1119.209mil)(-220.472mil,1968.505mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-220.472mil,0mil)(-200.472mil,60mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-240.472mil,60mil)(-220.472mil,0mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-240.472mil,1908.505mil)(-220.472mil,1968.505mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-220.472mil,1968.505mil)(-200.472mil,1908.505mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (787.402mil,1902.765mil)(787.402mil,2143.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (0mil,1902.765mil)(0mil,2143.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (528.658mil,2133.858mil)(787.402mil,2133.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (0mil,2133.858mil)(226.745mil,2133.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (727.402mil,2153.858mil)(787.402mil,2133.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (727.402mil,2113.858mil)(787.402mil,2133.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (0mil,2133.858mil)(60mil,2113.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (0mil,2133.858mil)(60mil,2153.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Jack 1x2" (299.02mil,-84.445mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "beep" (428.311mil,-80.445mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "210uF/16V" (-93.944mil,1678.557mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "D4" (199mil,1972mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "S1" (423.295mil,1972.145mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Jack 1x3" (334.516mil,-25.65mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "50.00" (-184.482mil,833.297mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "20.00" (242.745mil,2097.868mil)  Top Overlay
+Rule Violations :24
+
+
+Violations Detected : 24
+Time Elapsed        : 00:00:00

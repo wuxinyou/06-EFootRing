@@ -1,0 +1,7 @@
+Added Component: Designator=P1(Pad3.2*3.2*7.1-SM)
+Added Component: Designator=P2(Pad3.2*3.2*7.1-SM)
+Added Pin To Net: NetName=BAT Pin=P1-1
+Added Net: Name=BAT
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Net: Name=GND
+Added Class: Name=电子脚铐本体电池转接板

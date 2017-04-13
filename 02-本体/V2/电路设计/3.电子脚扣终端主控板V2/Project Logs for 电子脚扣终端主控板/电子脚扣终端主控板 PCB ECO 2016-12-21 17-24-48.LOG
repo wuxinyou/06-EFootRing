@@ -1,0 +1,24 @@
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=Q2(SOT-23)
+Added Component: Designator=U1(SOT-23-5)
+Added Component: Designator=U2(SOT-23-5)
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=BAT Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=BAT Pin=U1-3
+Added Pin To Net: NetName=NetC3_1 Pin=U1-4
+Added Pin To Net: NetName=+5V Pin=U1-5
+Added Pin To Net: NetName=+5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Pin To Net: NetName=NetC7_1 Pin=U2-4
+Added Pin To Net: NetName=+3.3V Pin=U2-5
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component Q1 S8050
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component Q2 S8050
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component U1 MIC5219YM5
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component U2 MIC5219-3.3YM5

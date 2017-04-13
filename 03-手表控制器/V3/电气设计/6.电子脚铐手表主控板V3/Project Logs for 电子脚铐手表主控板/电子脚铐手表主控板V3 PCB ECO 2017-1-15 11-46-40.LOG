@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=YL_ENOUT Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=YL_ENOUT Pin=Q3-3
+Removed Pin From Net: NetName=NetQ5_1 Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q5-3
+Removed Pin From Net: NetName=+3.3V Pin=R2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=AD_KEY1 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=AD_KEY2 Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=+3.3V Pin=R27-1
+Removed Pin From Net: NetName=NetD5_1 Pin=R27-2
+Removed Member From Class: ClassName=电子脚铐手表主控板 Member=J2
+Removed Member From Class: ClassName=电子脚铐手表主控板 Member=J3
+Change Component Comment : Designator=R22 Old Comment=100K New Comment=1K
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=R22 NewDesignator=R27
+Change Component Library : Designator=R27 Old Library=Passive Components Class.SchLib New Library=UP-Robot.SchLib
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q5-3
+Added Pin To Net: NetName=+3.3V Pin=R2-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-2
+Added Pin To Net: NetName=YL_ENOUT Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=AD_KEY1 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=AD_KEY2 Pin=R19-2
+Added Pin To Net: NetName=+3.3V Pin=R27-1
+Added Pin To Net: NetName=NetD5_1 Pin=R27-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R17-1
+Added Pin To Net: NetName=NetR15_1 Pin=U2-7
+Added Net: Name=NetR15_1
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R2 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R10 10K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R13 200K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R18 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R19 100K

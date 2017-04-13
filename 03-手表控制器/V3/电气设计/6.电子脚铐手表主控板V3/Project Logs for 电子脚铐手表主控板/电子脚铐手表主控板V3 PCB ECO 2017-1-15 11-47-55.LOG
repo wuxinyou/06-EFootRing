@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=+3.3V Pin=R15-2
+Removed Pin From Net: NetName=YL_SET Pin=R17-2
+Change Component Comment : Designator=R17 Old Comment=200K New Comment=100K
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=J4 NewDesignator=J2
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q3
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=R26 NewDesignator=R22
+Change Component Designator: OldDesignator=R27 NewDesignator=R23
+Change Component Designator: OldDesignator=R28 NewDesignator=R24
+Change Component Designator: OldDesignator=R29 NewDesignator=R25
+Change Component Designator: OldDesignator=R30 NewDesignator=R26
+Change Component Designator: OldDesignator=R31 NewDesignator=R27
+Change Component Designator: OldDesignator=R32 NewDesignator=R28
+Change Component Designator: OldDesignator=R33 NewDesignator=R29
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R11(R0603)
+Added Component: Designator=R16(R0603)
+Added Pin To Net: NetName=NetC5_1 Pin=R2-1
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Added Pin To Net: NetName=YL_SET Pin=R10-2
+Added Pin To Net: NetName=+3.3V Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=AD_KEY1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=AD_KEY2 Pin=R17-2
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR22_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-7
+Added Net: Name=NetR10_1
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R2 100K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R10 200K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R11 200K

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetQ3_1 Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=YL_ENOUT Pin=Q3-3
+Removed Pin From Net: NetName=+3.3V Pin=R2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=AD_KEY1 Pin=R14-2
+Added Component: Designator=R27(R0603)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=YL_ENOUT Pin=Q3-3
+Added Pin To Net: NetName=+3.3V Pin=R2-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=AD_KEY1 Pin=R14-2
+Added Pin To Net: NetName=WAKEUP Pin=R27-2
+Added Member To Class: ClassName=电子脚铐便携式主控板 Member=Component R27 NC

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=KEYENTER Pin=U1-17
+Removed Pin From Net: NetName=KEY0 Pin=U1-18
+Removed Pin From Net: NetName=KEY1 Pin=U1-19
+Removed Pin From Net: NetName=KEY2 Pin=U1-20
+Removed Pin From Net: NetName=SPARE2 Pin=U1-25
+Removed Pin From Net: NetName=SPARE3 Pin=U1-26
+Removed Pin From Net: NetName=SPARE4 Pin=U1-27
+Removed Pin From Net: NetName=SPARE5 Pin=U1-28
+Removed Pin From Net: NetName=KEYDELETE Pin=U1-29
+Removed Pin From Net: NetName=TESTLED1 Pin=U1-32
+Removed Pin From Net: NetName=TESTLED2 Pin=U1-33
+Removed Pin From Net: NetName=POWLED Pin=U1-38
+Removed Pin From Net: NetName=KEY3 Pin=U1-39
+Removed Pin From Net: NetName=KEY4 Pin=U1-40
+Removed Pin From Net: NetName=KEY5 Pin=U1-41
+Removed Pin From Net: NetName=KEY6 Pin=U1-42
+Removed Pin From Net: NetName=KEY7 Pin=U1-43
+Removed Pin From Net: NetName=KEY8 Pin=U1-45
+Removed Pin From Net: NetName=KEY9 Pin=U1-46
+Removed Member From Class: ClassName=电子脚铐手持式主控板_Frame Member=C46
+Added Pin To Net: NetName=POWLED Pin=U1-25
+Added Pin To Net: NetName=TESTLED2 Pin=U1-26
+Added Pin To Net: NetName=TESTLED1 Pin=U1-27
+Added Pin To Net: NetName=KEY4 Pin=U1-28
+Added Pin To Net: NetName=KEY9 Pin=U1-29
+Added Member To Class: ClassName=电子脚铐手持式主控板_Frame Member=Component C3 0.1uF
+Added Member To Class: ClassName=电子脚铐手持式主控板_Frame Member=Component J2 Jack 1x3

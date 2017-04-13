@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetQ3_1 Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=YL_ENOUT Pin=Q3-3
+Removed Pin From Net: NetName=NetQ5_1 Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q5-3
+Removed Pin From Net: NetName=+3.3V Pin=R2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R2-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=NetD2_1 Pin=R13-1
+Removed Pin From Net: NetName=AD_KEY2 Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=AD_KEY1 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=AD_KEY2 Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=NetQ3_1 Pin=R21-2
+Removed Pin From Net: NetName=+3.3V Pin=R27-1
+Removed Pin From Net: NetName=NetD5_1 Pin=R27-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Poll New DesignItemId=CAP
+Change Component Footprint: Designator=C1 Old Footprint=C7343 New Footprint=C0603
+Change Component Comment : Designator=C1 Old Comment=210uF/16V New Comment=10uF
+Added Pin To Net: NetName=NetQ2_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component J3 Jack 1x2
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R10 10K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R12 200K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R23 20K
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R24 10K

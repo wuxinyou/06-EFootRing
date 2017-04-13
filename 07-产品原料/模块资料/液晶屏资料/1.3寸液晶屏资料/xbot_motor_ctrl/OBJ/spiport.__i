@@ -1,0 +1,5 @@
+--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\DataTypeRealize -I.\Includes\Protocol -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32F3_StdPeriph -I.\Includes\User 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o ".\OBJ\spiport.o" --omf_browse ".\OBJ\spiport.crf" --depend ".\OBJ\spiport.d" "source\DataTypeRealize\SpiPort.cpp"

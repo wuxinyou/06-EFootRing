@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LEDRED Pin=R13-1
+Removed Member From Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=R19
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Added Component: Designator=D1(Led-D3)
+Added Pin To Net: NetName=LEDRED Pin=D1-1
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR18_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R13-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=µç×Ó½Å¿ÛÖÕ¶ËÖ÷¿Ø°å Member=Component D1 LED

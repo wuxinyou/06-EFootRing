@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=TTL2_RX Pin=U2-9
+Removed Pin From Net: NetName=TTL2_TX Pin=U2-10
+Removed Pin From Net: NetName=TTL1_TX Pin=U2-11
+Removed Pin From Net: NetName=TTL1_RX Pin=U2-12
+Added Component: Designator=R37(R0603)
+Added Component: Designator=R38(R0603)
+Added Component: Designator=R39(R0603)
+Added Component: Designator=R40(R0603)
+Added Pin To Net: NetName=TTL1_TX Pin=R37-1
+Added Pin To Net: NetName=TTL2_TX Pin=R38-1
+Added Pin To Net: NetName=TTL1_RX Pin=R39-1
+Added Pin To Net: NetName=TTL2_RX Pin=R40-1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=U2-11
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U2-10
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=U2-12
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U2-9
+Added Net: Name=NetR40_2
+Added Member To Class: ClassName=电子脚铐手持式主控板_Frame Member=Component J1 Jack 1x4

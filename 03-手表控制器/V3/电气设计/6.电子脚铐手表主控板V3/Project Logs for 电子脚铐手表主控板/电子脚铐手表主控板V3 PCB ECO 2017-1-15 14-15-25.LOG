@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=YL_EN Pin=U3-11
+Removed Pin From Net: NetName=POWEN Pin=U3-32
+Removed Pin From Net: NetName=YL_SET Pin=U3-33
+Added Component: Designator=C7(C0603)
+Added Pin To Net: NetName=+3.3V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=POWEN Pin=U3-11
+Added Pin To Net: NetName=YL_SET Pin=U3-32
+Added Pin To Net: NetName=YL_EN Pin=U3-33
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component C7 0.1uF

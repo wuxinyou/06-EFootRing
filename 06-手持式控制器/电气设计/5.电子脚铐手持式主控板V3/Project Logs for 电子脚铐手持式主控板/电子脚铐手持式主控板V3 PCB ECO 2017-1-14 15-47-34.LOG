@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TTL3_RX Pin=J3-3
+Removed Pin From Net: NetName=TTL3_TX Pin=J3-4
+Removed Member From Class: ClassName=电子脚铐手持式主控板_Frame Member=C46
+Added Component: Designator=R35(R0603)
+Added Component: Designator=R36(R0603)
+Added Pin To Net: NetName=TTL3_RX Pin=R35-2
+Added Pin To Net: NetName=TTL3_TX Pin=R36-2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R35-1
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=R36-1
+Added Net: Name=NetJ3_4
+Added Member To Class: ClassName=电子脚铐手持式主控板_Frame Member=Component C3 0.1uF
+Added Member To Class: ClassName=电子脚铐手持式主控板_Frame Member=Component R35 10R
+Added Member To Class: ClassName=电子脚铐手持式主控板_Frame Member=Component R36 10R

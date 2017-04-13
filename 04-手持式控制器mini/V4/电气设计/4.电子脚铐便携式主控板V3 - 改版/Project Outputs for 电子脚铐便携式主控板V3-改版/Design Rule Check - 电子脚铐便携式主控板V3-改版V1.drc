@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : D:\工作文件\13.电子脚铐\第3版\3-电气设计\4.电子脚铐便携式主控板V3 - 改版\电子脚铐便携式主控板V3-改版V1.PcbDoc
+Date     : 2017/2/4
+Time     : 17:25:50
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-27.659mm,98.267mm)(-27.029mm,97.637mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-27.659mm,89.133mm)(-27.029mm,89.763mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-27.029mm,89.8mm)(-27.029mm,97.6mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-27.029mm,89.763mm)(-26.013mm,89.763mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-27.029mm,97.637mm)(-26.013mm,97.637mm)  Top Overlay
+Rule Violations :5
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50.8mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5.08mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=4mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Time Elapsed        : 00:00:01

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3.3V Pin=R2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=AD_KEY1 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=AD_KEY2 Pin=R19-2
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component Q5 S8050
+Added Member To Class: ClassName=电子脚铐手表主控板 Member=Component R27 1K

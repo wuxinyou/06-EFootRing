@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LEDBLUE Pin=U2-15
+Removed Pin From Net: NetName=LEDRED Pin=U2-16
+Added Component: Designator=R30(R0603)
+Added Component: Designator=R31(R0603)
+Added Pin To Net: NetName=SPARE1 Pin=R30-2
+Added Pin To Net: NetName=SPARE2 Pin=R31-2
+Added Pin To Net: NetName=LEDRED Pin=U2-15
+Added Pin To Net: NetName=LEDBLUE Pin=U2-16
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component C15 210uF/16V
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R30 NC
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component R31 NC
+Added Member To Class: ClassName=电子脚铐本体主控板 Member=Component U1 MIC5219YM5

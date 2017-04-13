@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+3.3V Pin=D2-1
+Removed Pin From Net: NetName=+3.3V Pin=D3-1
+Removed Pin From Net: NetName=TESTLED1 Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Member From Class: ClassName=电子脚扣终端主控板 Member=D2
+Removed Member From Class: ClassName=电子脚扣终端主控板 Member=D3
+Removed Member From Class: ClassName=电子脚扣终端主控板 Member=R16
+Removed Member From Class: ClassName=电子脚扣终端主控板 Member=R17
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR15_2
+Added Member To Class: ClassName=电子脚扣终端主控板 Member=Component C12 10uF
+Added Member To Class: ClassName=电子脚扣终端主控板 Member=Component C13 0.1uF
+Added Member To Class: ClassName=电子脚扣终端主控板 Member=Component C14 0.1uF
+Added Member To Class: ClassName=电子脚扣终端主控板 Member=Component U3 ZG-Mxx

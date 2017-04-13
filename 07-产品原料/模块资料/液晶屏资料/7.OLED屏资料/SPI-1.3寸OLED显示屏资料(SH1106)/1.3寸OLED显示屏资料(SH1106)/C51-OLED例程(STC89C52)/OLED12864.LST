@@ -1,0 +1,105 @@
+C51 COMPILER V8.02   OLED12864                                                             11/16/2013 18:01:27 PAGE 1   
+
+
+C51 COMPILER V8.02, COMPILATION OF MODULE OLED12864
+OBJECT MODULE PLACED IN OLED12864.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE OLED12864.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          /************************************************************************************
+   2          *  Copyright (c), 2013, HelTec Automatic Technology co.,LTD.
+   3          *            All rights reserved.
+   4          *
+   5          * Http:    www.heltec.cn
+   6          * Email:   cn.heltec@gmail.com
+   7          * WebShop: heltec.taobao.com
+   8          *
+   9          * File name: OLED12864.c
+  10          * Project  : OLED
+  11          * Processor: STC89C52
+  12          * Compiler : Keil C51 Compiler
+  13          * 
+  14          * Author : 小林
+  15          * Version: 1.00
+  16          * Date   : 2013.8.8
+  17          * Email  : hello14blog@gmail.com
+  18          * Modification: none
+  19          * 
+  20          * Description: 128*64点整OLED模块功能演示程序的主函数，仅适用heltec.taobao.com所售产品
+  21          *
+  22          * Others: none;
+  23          *
+  24          * Function List:
+  25          *
+  26          * 1. void delay(unsigned int z) -- 主函数中用于调整显示效果的延时函数,STC89C52 12MHZ z=1时大约延时1ms,其他
+             -频率需要自己计算
+  27          * 2. void main(void) -- 主函数
+  28          *
+  29          * History: none;
+  30          *
+  31          *************************************************************************************/
+  32          
+  33          #include "REG51.h"
+  34          #include "intrins.h"
+  35          #include "codetab.h"
+  36          #include "LQ12864.h"
+  37          
+  38          void delay(unsigned int z)
+  39          {
+  40   1              unsigned int x,y;
+  41   1              for(x=z;x>0;x--)
+  42   1                      for(y=110;y>0;y--);
+  43   1      }
+  44          
+  45          void main(void) 
+  46          {
+  47   1              unsigned char i;
+  48   1                 
+  49   1              LCD_Init(); //OLED初始化  
+  50   1              while(1)
+  51   1              {
+  52   2      //              LCD_Fill(0xff); //屏全亮
+  53   2      //              delay(2000);
+  54   2      //              LCD_Fill(0x00); //屏全灭
+C51 COMPILER V8.02   OLED12864                                                             11/16/2013 18:01:27 PAGE 2   
+
+  55   2      //              delay(2000);
+  56   2                      for(i=0; i<8; i++)//通过点整显示汉字 -- i表示字表数组的位置
+  57   2                      {
+  58   3                              LCD_P16x16Ch(i*16,0,i);
+  59   3                              LCD_P16x16Ch(i*16,2,i+8);
+  60   3                              LCD_P16x16Ch(i*16,4,i+16);
+  61   3                              LCD_P16x16Ch(i*16,6,i+24);
+  62   3                      } 
+  63   2                      delay(4000);
+  64   2                      LCD_CLS();//清屏
+  65   2      
+  66   2                      LCD_P8x16Str(44,0,"HelTec");//第一行 -- 8x16的显示单元显示ASCII码
+  67   2                      LCD_P8x16Str(20,2,"OLEDDISPLAY");
+  68   2                      LCD_P8x16Str(8,4,"www.heltec.cn");
+  69   2                      LCD_P6x8Str(16,6,"HelTec@gmail.com");
+  70   2                      LCD_P6x8Str(34,7,"2013-07-26");    
+  71   2                      delay(4000);
+  72   2                      LCD_CLS();
+  73   2      
+  74   2                      Draw_BMP(0,0,132,8,BMP1);  //图片显示(图片显示慎用，生成的字表较大，会占用较多空间，FLASH空间8K以下慎用)
+  75   2                      delay(8000);
+  76   2                      Draw_BMP(0,0,132,8,BMP2);
+  77   2                      delay(8000);
+  78   2              }
+  79   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =   1078    ----
+   CONSTANT SIZE    =   5269    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----      32
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

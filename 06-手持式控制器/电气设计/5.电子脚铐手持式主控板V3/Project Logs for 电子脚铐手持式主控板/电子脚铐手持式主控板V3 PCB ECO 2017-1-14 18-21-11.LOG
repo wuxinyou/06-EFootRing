@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=POWLED Pin=U1-25
+Removed Pin From Net: NetName=TESTLED2 Pin=U1-26
+Removed Pin From Net: NetName=TESTLED1 Pin=U1-27
+Removed Pin From Net: NetName=KEY4 Pin=U1-28
+Removed Pin From Net: NetName=KEY9 Pin=U1-29
+Added Pin To Net: NetName=POWLED Pin=U1-27
+Added Pin To Net: NetName=TESTLED2 Pin=U1-28
+Added Pin To Net: NetName=TESTLED1 Pin=U1-29
+Added Pin To Net: NetName=KEY4 Pin=U1-32
+Added Pin To Net: NetName=KEY9 Pin=U1-33

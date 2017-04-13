@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AD_KEY3 Pin=U3-13
+Removed Pin From Net: NetName=LEDPOW Pin=U3-14
+Added Component: Designator=C7(C0603)
+Added Pin To Net: NetName=+3.3V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=LEDPOW Pin=U3-13
+Added Pin To Net: NetName=AD_KEY3 Pin=U3-14
